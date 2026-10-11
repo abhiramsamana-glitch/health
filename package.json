@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "tsx server.ts",
-    "build": "vite build && node scripts/prepare-vercel.mjs",
+    "build": "vite build",
     "start": "node --import tsx server.ts",
     "preview": "vite preview",
     "clean": "rm -rf dist",
