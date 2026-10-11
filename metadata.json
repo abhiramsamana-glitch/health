@@ -1,0 +1,8 @@
+{
+  "name": "AI HealthMate Companion",
+  "description": "Your intelligent health companion - AI-powered personal health education and wellness dashboard for report analysis, symptom analysis, vitals tracking, and lifestyle planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
